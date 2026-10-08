@@ -14,4 +14,4 @@ O objetivo é praticar lógica de programação e Java, além de registrar minha
 **Davi Marinho Rodrigues de Oliveira**
 Estudante de Ciência da Computação - IFMA Campus Imperatriz
 
-[GitHub](https://github.com/seu-usuario) · [LinkedIn](https://linkedin.com/in/seu-perfil](https://www.linkedin.com/in/davi-marinho-06a2303aa/))
+[GitHub](https://github.com/seu-usuario) · [LinkedIn](https://www.linkedin.com/in/davi-marinho-06a2303aa/))
