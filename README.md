@@ -6,7 +6,7 @@ O objetivo é praticar lógica de programação e Java, além de registrar minha
 
 ## Tecnologias
 
-- Java
+- C e Java
 - Git e GitHub
 
 ## Autor
